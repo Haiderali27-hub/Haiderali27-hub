@@ -31,8 +31,6 @@ I am a software engineer based in Islamabad, specializing in building high-perfo
 ![Haider's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Haiderali27-hub&theme=radical&hide_border=true)
 
 ---
----
-### 🛠️ Technical Arsenal
 
 ### 🛠️ Technical Arsenal
 
