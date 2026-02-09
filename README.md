@@ -31,6 +31,28 @@ I am a software engineer based in Islamabad, specializing in building high-perfo
 ![Haider's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Haiderali27-hub&theme=radical&hide_border=true)
 
 ---
+---
+
+### 🏆 Achievements & Tech Analysis
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haiderali27-hub&layout=compact&theme=radical&langs_count=8" height="150" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Haiderali27-hub&theme=radical&no-frame=true&no-bg=true&margin-w=4" height="150" alt="Trophies" />
+</div>
+
+---
+
+### 💎 Featured Engineering
+
+| Project | Tech Stack | Description |
+| :--- | :--- | :--- |
+| **Enterprise RAG Engine** | Python, LangChain, Qwen | A local LLM system that processes 400+ PDFs to answer complex queries without internet reliance. |
+| **Poultry Ledger System** | Flutter, Firebase, Riverpod | A digital ledger replacing paper records for local poultry businesses, featuring offline-first architecture. |
+| **Cenaris** | *Confidential* | Enterprise-grade client project focusing on scalable architecture. |
+
+---
+
+### ⚡ Recent Activity
+![Haider's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Haiderali27-hub&theme=react-dark)
 
 ### 📫 Connect with Me
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mhaiderali2710/)
