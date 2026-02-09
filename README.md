@@ -34,10 +34,10 @@ I am a software engineer based in Islamabad, specializing in building high-perfo
 ---
 
 ### 🏆 Achievements & Tech Analysis
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haiderali27-hub&layout=compact&theme=radical&langs_count=8" height="150" alt="Top Languages" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Haiderali27-hub&theme=radical&no-frame=true&no-bg=true&margin-w=4" height="150" alt="Trophies" />
-</div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Haiderali27-hub&layout=compact&theme=radical&langs_count=8)](https://github.com/Haiderali27-hub)
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Haiderali27-hub&theme=radical&no-frame=true&no-bg=true&margin-w=4)](https://github.com/Haiderali27-hub)
 
 ---
 
