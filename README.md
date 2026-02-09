@@ -32,14 +32,22 @@ I am a software engineer based in Islamabad, specializing in building high-perfo
 
 ---
 ---
+### 🛠️ Technical Arsenal
 
-### 🏆 Achievements & Tech Analysis
+<div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Haiderali27-hub&layout=compact&theme=radical&langs_count=8)](https://github.com/Haiderali27-hub)
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  
+  <br/>
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Haiderali27-hub&theme=radical&no-frame=true&no-bg=true&margin-w=4)](https://github.com/Haiderali27-hub)
-
----
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/Tauri-%2324C8D5.svg?style=for-the-badge&logo=tauri&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  
+</div>
 
 ### 💎 Featured Engineering
 
