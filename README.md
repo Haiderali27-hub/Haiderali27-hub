@@ -33,4 +33,4 @@ I am a software engineer based in Islamabad, specializing in building high-perfo
 ---
 
 ### 📫 Connect with Me
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME-HERE)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />]([https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME-HERE](https://www.linkedin.com/in/mhaiderali2710/))
