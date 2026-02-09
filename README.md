@@ -28,7 +28,7 @@ I am a software engineer based in Islamabad, specializing in building high-perfo
 ---
 
 ### 📊 GitHub Stats
-![Haider's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haiderali27-hub&show_icons=true&theme=tokyonight)
+![Haider's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haiderali27-hub&show_icons=true&theme=radical)
 
 ---
 
